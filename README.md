@@ -8,21 +8,24 @@ Assignment of well-known lecture [CS231n](http://cs231n.stanford.edu/)
 
 # Assignment1
 - [Image Classification](./assignment1/features.ipynb)
-- KNN
-- SVM
-- Softmax
-- Fully Connected Neural Network
+- [KNN](./assignment1/knn.ipynb)
+- [SVM](./assignment1/svm.ipynb)
+- [Softmax](./assignment1/softmax.ipynb)
+- [Fully Connected Neural Network](./assignment1/two_layer_net.ipynb)
 
 # Assignment2
-- Fully connected and convolutional nets
-- Batch normalization
-- Dropout
-- Frameworks
+- [Fully connected nets](./assignment2/FullyConnectedNets.ipynb)
+- [Convolutional nets](./assignment2/ConvolutionalNetworks.ipynb)
+- [Batch normalization](./assignment2/BatchNormalization.ipynb)
+- [Dropout](./assignment2/Dropout.ipynb)
+- [Pytorch](./assignment2/PyTorch.ipynb)
 
 # Assignment3
-- image captioning with rnns and transformers
-- network visualization
-- generative adversarial netwroks
-- self-supervised contrastive learning
+- [Rnns](./assignment3/RNN_Captioning.ipynb)
+- [LSTM](./assignment3/LSTM_Captioning.ipynb) 
+- [Transformers](./assignment3/Transformer_Captioning.ipynb)
+- [Network visualization](./assignment3/Network_Visualization.ipynb)
+- [generative adversarial netwroks](./assignment3/Generative_Adversarial_Networks.ipynb)
+- [self-supervised contrastive learning](./assignment3/Self_Supervised_Learning.ipynb)
 
 
