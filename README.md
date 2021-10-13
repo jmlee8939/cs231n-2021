@@ -21,9 +21,9 @@ Assignment of well-known lecture [CS231n](http://cs231n.stanford.edu/)
 - [Pytorch](./assignment2/PyTorch.ipynb)
 
 # Assignment3
-- [Rnns](./assignment3/RNN_Captioning.ipynb)
+- [RNN](./assignment3/RNN_Captioning.ipynb)
 - [LSTM](./assignment3/LSTM_Captioning.ipynb) 
-- [Transformers](./assignment3/Transformer_Captioning.ipynb)
+- [Transformer](./assignment3/Transformer_Captioning.ipynb)
 - [Network visualization](./assignment3/Network_Visualization.ipynb)
 - [generative adversarial netwroks](./assignment3/Generative_Adversarial_Networks.ipynb)
 - [self-supervised contrastive learning](./assignment3/Self_Supervised_Learning.ipynb)
