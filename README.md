@@ -2,7 +2,7 @@
 by jaeminiman  
 
 
-Assignment of well-known lecture [CS231n](http://cs231n.stanford.edu/) from stanford university
+Assignment of well-known lecture [CS231n](http://cs231n.stanford.edu/) from stanford university  
 (2021 spring) 
 *There could be some mistakes. :) 
 
